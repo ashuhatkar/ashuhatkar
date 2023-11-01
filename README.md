@@ -1,5 +1,5 @@
 ## Hi everyone 👋 
-- 👀 I’m currently working on - dotnet core, microservices, Kubernetes
+- 👀 I’m currently working on - dotnet core, microservices, angular, docker containers, kubernetes
 <!-- - 🌱 I’m currently learning - DevOps with Kubernetes, CNCF tools, AI/ML
 - 💞️ Ask me about - dotnet core, serverless, DevOps scaling applications in the cloud, communities, traveling & more -->  
 - 📫 How to reach me - Twitter @ashish_hatkar
