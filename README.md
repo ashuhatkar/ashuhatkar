@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashuhatkar
+- 👋 Hi there
 - 👀 I’m currently working on - dotnet core, microservices, DevOps, Containers, Kubernetes
 - 🌱 I’m currently learning - DevOps with Kubernetes, CNCF tools, AI/ML
 - 💞️ Ask me about - dotnet core, serverless, DevOps, scaling applications in the cloud, communities, traveling & more  
