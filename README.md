@@ -1,7 +1,7 @@
 ## Hi there 👋 
 - 👀 I’m currently working on - dotnet core, microservices, angular, containers, kubernetes
-- 🌱 I’m learning - Flask framework, CNCF tools, ways to stay grounded
-- 💞️ Ask me about - the web, serverless, DevOps scalling applications in the cloud, communities, traveling & more
+<!--- 🌱 I’m learning - Flask framework, CNCF tools, ways to stay grounded --->
+<!--- 💞️ Ask me about - the web, serverless, DevOps scalling applications in the cloud, communities, traveling & more --->
 - 📫 How to reach me - Twitter @aashish_hatkar
 
 <!--- DevOps, Containers  
